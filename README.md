@@ -6,16 +6,12 @@
 
    - Fazendo uso da aplicação de boas práticas de programação e metodologia BEM
    - Foi usada a arquitetura não linear da Extrutura do Atomic Design
-   - Foi Elaborei uma framework usando javascript com metodologia end-to-end
+   - Foi Elaborada uma framework usando javascript com metodologia end-to-end
    - Para instalar as dependências: `'npm i'`
    - Para iniciar em modo de desenvolvimento:`'npm start'`
 
 
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvico)](https://github.com/carlosvico/github-readme-stats)
-
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" widht="40" height="40"></img>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" widht="40" height="40"></img>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" widht="40" height="40"></img>
      
 
 
