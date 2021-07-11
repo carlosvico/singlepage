@@ -10,7 +10,7 @@
    - Trabalhado os Modulos de Responsividade
    - Para instalar as dependências: `'npm i'`
    - Para iniciar em modo de desenvolvimento:`'npm start'`
-   - Para iniciar em modo de desenvolvimento Webpack:`'npm run webpack'`
+   - Para rodar o Webpack:`'npm run webpack'`
    
 
 
