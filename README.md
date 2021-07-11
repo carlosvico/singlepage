@@ -13,10 +13,10 @@
 
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvico)](https://github.com/carlosvico/github-readme-stats)
 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/html-original.svg" widht="40" height="40"></img>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" widht="40" height="40"></img>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" widht="40" height="40"></img>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" widht="40" height="40"></img>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" widht="40" height="40"></img>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" widht="40" height="40"></img>
+     
 
 
 <!--te-->
