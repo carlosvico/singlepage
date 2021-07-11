@@ -1,5 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 * {
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #000;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Roboto", sans-serif;
+}
+
+.block-section {
+  display: block;
+}
+
+.main-left {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.footer-contain {
+  margin-top: calc(10px - 220px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.section {
+  height: 100vh;
+  width: 100%;
+}
+
+.background--one {
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.background--one .block-section--one {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+.background--one .block-section--one h1 {
+  font-weight: 400;
+  font-size: 22px;
+  margin-bottom: 32px;
+}
+.background--one .block-section--one img {
+  cursor: pointer;
+  width: 300px;
+  transition: 0.3s;
+}
+.background--one .block-section--one img:hover {
+  transform: scale(1.2);
+}
+
+.background--two {
+  background-size: contain;
+  background-image: inherit;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  height: 120vh;
+  display: flex;
+}
+.background--two .footer-contain {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.background--two .block-section--two {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: calc(10px-60px);
+  height: 100%;
+}
+.background--two .block-section--two img {
+  max-width: 300px;
+  height: auto;
+}
+.background--two .block-section--two p {
+  margin-left: 70px;
+  height: 100%;
+  text-align: right;
+}
+
+@media (max-width: 600px) {
+  .background--two {
+    height: 1000px;
+  }
+  .background--two .block-section--two {
+    display: grid;
+    height: 90%;
+  }
+  .background--two .block-section--two p {
+    text-align: center;
+    margin-left: 0;
+    margin-top: calc(10px - 50px);
+  }
+  .background--two .block-section--two img {
+    margin: 0 auto;
+    max-width: 60%;
+  }
+  .background--two .block-section--two p {
+    width: 100%;
+  }
+
+  .footer-contain img, p {
+    margin-top: 200px;
+  }
+  .footer-contain img p, p p {
+    display: flex;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
