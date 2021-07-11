@@ -2,7 +2,9 @@
 =================
 <!--ts-->
    * Fazendo uso da aplicação de boas práticas de programação e metodologia BEM
-   * [Instalação](#Foi usada a arquitetura não linear da Extrutura do Atomic Design
+   * Foi usada a arquitetura não linear da Extrutura do Atomic Design
    * Elaborei uma framework usando javascript com metodologia end-to-end
-   * [Tecnologias](#tecnologias)
+   * Para instalar as dependências: `npm i`
+   * Para iniciar em modo de desenvolvimento:`npm start`
+   
 <!--te-->
