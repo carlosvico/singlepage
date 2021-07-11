@@ -1,4 +1,4 @@
-##Projeto SPA (Single Page Aplication)
+##Projeto SPA (Single Page Application)
 =================
 <!--ts-->
    * Fazendo uso da aplicação de boas práticas de programação e metodologia BEM
