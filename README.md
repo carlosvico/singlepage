@@ -8,8 +8,7 @@
    - Foi usada a arquitetura não linear da Extrutura do Atomic Design
    - Foi Elaborada uma framework usando javascript com metodologia end-to-end
    - Trabalhado os Modulos de Responsividade
-   - Para instalar as dependências: `'npm i'`
-   - Para iniciar em modo de desenvolvimento:`'npm start'`
+   - Para instalar as dependências: `'npm install'`
    - Para rodar o Webpack:`'npm run webpack'`
    
 
